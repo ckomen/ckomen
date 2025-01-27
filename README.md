@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ckomen
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java Springboot
+- 🌱 I’m currently learning Frontend Dev with React
 - 💞️ I’m looking to collaborate on projects
 - 📫 You can reach me through cjepkorir09@gmail.com
 
