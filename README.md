@@ -20,25 +20,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ckomen&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=ckomen&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckomen&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ckomen&theme=react-dark&hide_border=true" />
-</p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ckomen&theme=react-dark&hide_border=true" />
-</p>
-
 
 <!---
 ckomen/ckomen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
